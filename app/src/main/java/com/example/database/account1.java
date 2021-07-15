@@ -1,5 +1,7 @@
 package com.example.database;
 
+// Created by Amir Hossein Haghy
+
 // Database Imports
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
